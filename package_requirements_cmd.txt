@@ -1,0 +1,5 @@
+pip install -U transformers
+pip install -U ckip-transformers
+pip install opencc-python-reimplemented
+conda install -c conda-forge jieba -y
+conda install -c conda-forge wordcloud -y
